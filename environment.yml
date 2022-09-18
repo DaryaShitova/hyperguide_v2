@@ -1,0 +1,13 @@
+name: hyperguide
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipython=7.31.1=py38hecd8cb5_0
+  - ipywidgets=7.6.5=pyhd3eb1b0_1
+  - jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
+  - notebook=6.4.8=py38hecd8cb5_0
+  - pandas=1.4.1=py38he9d5cce_0
+  - python=3.8.12=h88f2d9e_0
+  - scikit-learn=1.0.2=py38hae1ba45_1
+  - jupyterlab
